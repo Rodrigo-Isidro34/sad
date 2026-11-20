@@ -1,0 +1,11 @@
+# Dataset bruto (>100MB - limite do GitHub)
+*.csv
+
+# Arquivos temporários do Sistema / Office
+~$*
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos locais
+*.log
+.meta/
